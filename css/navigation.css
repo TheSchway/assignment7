@@ -16,7 +16,7 @@
 
 
 
-header h1{
+.bannerContainer header h1{
 	display: inline;
 	float: left;
 	margin: 0;
@@ -24,9 +24,9 @@ header h1{
 	padding: 30px;
 	color: white;
 	background-color: #006600;
-
 	
 }
+
 
 
 .menu ul{
