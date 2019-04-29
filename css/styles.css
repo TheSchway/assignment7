@@ -1,0 +1,116 @@
+/*  **********************
+	Base Styles
+	********************** */
+
+
+
+
+/*  **********************
+	Layout
+	********************** */
+
+
+.flex-container{
+	display: flex;
+	
+	width: 100%
+}
+
+
+
+
+
+
+.botbanner{
+	padding-left: 60px;
+	padding-right: 20px;
+	width: 30%;
+	
+}
+
+
+.img{
+	width: 1080px;
+}
+
+.flex-container .botbanner{
+	width: 700px;
+	margin-left: 0px;
+
+
+}
+.botbanner h2{
+	padding-top: 10px;
+}
+.botbanner {
+	width: 100%
+	margin:0px;
+
+
+}
+.botbanner ul li{
+	display: inline block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: white;
+	font-family: 'Poiret One', cursive;
+	font-size: 24px;
+
+}
+
+
+
+/*  **********************
+	MODUlE
+	********************** */
+
+
+
+
+.flex-container{
+    background-color: green;
+	border-bottom: solid red 8px;
+	border-top: solid red 8px;
+}
+
+
+
+.botbanner ul{
+	list-style-type: none;
+	text-decoration: none;
+	
+}
+
+
+
+.botbanner h2{
+	color: white;
+
+}
+
+
+
+.h2{
+	margin-top: 10px;
+	width: 50%;
+
+}
+
+
+
+
+
+
+
+
+.foot{
+	padding: 15px;
+	background-color: green;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+
+}
+
+
+
