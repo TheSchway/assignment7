@@ -60,14 +60,21 @@
 
 				<p>Meanwhile, Farquaad tortures the Gingerbread Man for the location of the remaining fairytale creatures. His guards rush in with something he has been searching for: the Magic Mirror. He asks the Mirror if his kingdom is the fairest of them all but is told that he is not even a king, as he isn't descended from royalty. To become a king, he must marry a princess; Farquaad resolves to marry Princess Fiona, who is locked in a castle tower guarded by a dragon. Unwilling to perform the task himself, he organizes a tournament wherein the winner gets the "privilege" of rescuing Fiona for him. Shrek and Donkey arrive during the tournament, and ignorantly defeat Farquaad's knights. Farquaad proclaims them the champions, and compels them under threat of death to rescue Fiona, promising to move the fairytale creatures from Shrek's swamp if he succeeds.</p>
 
+
 				<p>Shrek and Donkey travel to the castle to find Fiona. They are noticed by Dragon, who corners Donkey. In desperation, he sweet-talks the beast, learning that it is female. Dragon falls in love with Donkey and carries him to her chambers. Meanwhile, Shrek finds Fiona, who is appalled at his lack of romanticism and surprised he had not slain Dragon. They leave after rescuing Donkey, and Fiona is thrilled to be rescued but is quickly disappointed when Shrek reveals he is an ogre. Despite her demands that Farquaad come get her in person, Shrek forcibly carries her as he ventures back to Duloc with Donkey. The three encounter Robin Hood on their way back, where it is revealed that Fiona is an expert martial artist. Shrek and Fiona find they have a lot in common and begin to fall in love.</p>
+
+		<img src="images/shrek1.jpg" alt="Shrek">
+
 
 				<p>Shrek interrupts the wedding before Farquaad can kiss Fiona and tells her that Farquaad is not her true love and is only marrying her to become king. The sun sets, which turns Fiona into an ogress in front of everyone, causing a surprised Shrek to fully understand what he overheard. Outraged, Farquaad orders Shrek executed and Fiona detained. Dragon bursts in alongside Donkey and devours Farquaad alive. Shrek and Fiona profess their love and share a kiss; Fiona's curse is lifted but she is surprised to see that she is still an ogress. They marry in the swamp and leave on their honeymoon.</p>
 			</div>
 
 		</div>
 
+
 		<div class="flex-shrek">
+
+		<img src="images/smashmouth.jpg" alt="Smashmouth">
 
 			<h2 class="flexhmusic">Music</h2>
 
@@ -77,6 +84,7 @@
 
 				<p>Shrek introduced a new element to give the film a unique feel. The film used pop music and other Oldies to make the story more forward. Covers of songs like "On the Road Again" and "Try a Little Tenderness" were integrated in the film's score. As the film was about to be completed, Katzenberg suggested to the filmmakers to redo the film's ending to "go out with a big laugh"; instead of ending the film with just a storybook closing over Shrek and Fiona as they ride off into the sunset, they decided to add a song "I'm a Believer" covered by Smash Mouth and show all the fairytale creatures in the film.</p>
 				
+		<img src="images/shrekaward.jpg" alt="Awards">
 
 			</div>
 
