@@ -1,0 +1,135 @@
+
+/*  **********************
+	Base Styles
+	********************** */
+*{
+	color: black;
+	margin: 0;
+	
+
+
+}
+
+/*  **********************
+	Layout
+	********************** */
+
+
+
+header h1{
+	display: inline;
+	float: left;
+	margin: 0;
+	font-size: 34px;
+	padding: 30px;
+	color: white;
+	background-color: #006600;
+
+	
+}
+
+.menu ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #006600;
+
+	
+}
+
+.menu li{
+	padding-bottom: 30px;
+	padding-top: 30px;
+	float:right;
+
+}
+
+
+.menu li a{
+	padding:30px;
+
+
+}
+
+
+.vertical{
+	margin-left: 360px;
+	width: 40%;
+	height: 100%;
+	background-color: red;
+
+}
+
+.vertical li a{
+
+	display: block;
+	padding: 80px;
+	color: white;
+	font-size: 28px;
+	text-align: center;
+
+
+
+
+}
+
+.vertical ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+
+
+}
+
+
+.bannerContainer{
+	padding-left;
+	display: flex;
+	width: 100%;
+	background-color: #006600;
+	border-bottom: solid red 8px;
+
+
+}
+
+.bannerContainer .banner2{
+	margin-left: 100px;
+
+}
+
+
+/*  **********************
+	Module
+	********************** */
+
+
+.menu a{
+  	
+  	font-size: 34px;
+  	color: white;
+}
+
+.menu{
+	display: inline;
+}
+
+
+
+
+
+li a:hover {
+  background-color: #b5d1ff;
+}
+
+/*  **********************
+	State
+	********************** */
+
+.menu .is-current{
+	color:red;
+
+}
+
+
