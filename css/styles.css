@@ -60,9 +60,9 @@
 	
 }
 
-
-.img{
-	width: 1080px;
+img{
+	height: 150%;
+	width: 150%;
 }
 
 .flex-container .botbanner{

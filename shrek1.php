@@ -63,11 +63,17 @@
 
 				<p>Shrek and Donkey travel to the castle to find Fiona. They are noticed by Dragon, who corners Donkey. In desperation, he sweet-talks the beast, learning that it is female. Dragon falls in love with Donkey and carries him to her chambers. Meanwhile, Shrek finds Fiona, who is appalled at his lack of romanticism and surprised he had not slain Dragon. They leave after rescuing Donkey, and Fiona is thrilled to be rescued but is quickly disappointed when Shrek reveals he is an ogre. Despite her demands that Farquaad come get her in person, Shrek forcibly carries her as he ventures back to Duloc with Donkey. The three encounter Robin Hood on their way back, where it is revealed that Fiona is an expert martial artist. Shrek and Fiona find they have a lot in common and begin to fall in love.</p>
 
-		<img src="images/shrek1.jpg" alt="Shrek">
+		
 
 
 				<p>Shrek interrupts the wedding before Farquaad can kiss Fiona and tells her that Farquaad is not her true love and is only marrying her to become king. The sun sets, which turns Fiona into an ogress in front of everyone, causing a surprised Shrek to fully understand what he overheard. Outraged, Farquaad orders Shrek executed and Fiona detained. Dragon bursts in alongside Donkey and devours Farquaad alive. Shrek and Fiona profess their love and share a kiss; Fiona's curse is lifted but she is surprised to see that she is still an ogress. They marry in the swamp and leave on their honeymoon.</p>
 			</div>
+
+			
+		
+			<img src="images/shrek1.jpg" alt="Shrek">
+
+			
 
 		</div>
 
