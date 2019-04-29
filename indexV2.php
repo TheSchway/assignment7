@@ -17,7 +17,7 @@
 			<div class="banner1">
 				<header>
 					<a href="index.php">
-						<h1> Shrek</h1>
+						<h1> SHREK</h1>
 					</a>
 
 				</header>
@@ -63,9 +63,11 @@
 				</div>
 
 				<div class="vertical">
-					<ol>
-						<li>Click Here to Learn More About These Movies!</li>
-					</ol>
+				<h2>We Need Your Help!</h2>
+				<a href="index.php">
+					<p> Click Here To Give Us Your Input on Shrek!</p>
+				</a>
+					
 				</a>
 
 			</div>

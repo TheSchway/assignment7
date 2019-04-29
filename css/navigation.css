@@ -20,7 +20,7 @@ header h1{
 	display: inline;
 	float: left;
 	margin: 0;
-	font-size: 34px;
+	font-size: 24px;
 	padding: 30px;
 	color: white;
 	background-color: #006600;
@@ -28,12 +28,14 @@ header h1{
 	
 }
 
+
 .menu ul{
 	list-style-type: none;
 	margin:0;
 	padding: 0;
 	overflow: hidden;
 	background-color: #006600;
+	margin-left: 400px;
 
 	
 }
@@ -46,26 +48,30 @@ header h1{
 }
 
 
+
 .menu li a{
 	padding:30px;
 
 
 }
 
-
+.vertical *{
+	color: black;
+}
 .vertical{
+
 	margin-left: 360px;
 	width: 40%;
 	height: 100%;
-	background-color: red;
+	background-color: #663300;
 
 }
 
-.vertical li a{
+.vertical a{
 
 	display: block;
-	padding: 80px;
-	color: white;
+	padding: 20px;
+
 	font-size: 28px;
 	text-align: center;
 
@@ -74,14 +80,6 @@ header h1{
 
 }
 
-.vertical ul{
-	list-style-type: none;
-	margin:0;
-	padding: 0;
-	overflow: hidden;
-
-
-}
 
 
 .bannerContainer{
@@ -89,7 +87,7 @@ header h1{
 	display: flex;
 	width: 100%;
 	background-color: #006600;
-	border-bottom: solid red 8px;
+	border-bottom: solid #663300 8px;
 
 
 }
@@ -107,7 +105,7 @@ header h1{
 
 .menu a{
   	
-  	font-size: 34px;
+  	font-size: 24px;
   	color: white;
 }
 
@@ -120,7 +118,7 @@ header h1{
 
 
 li a:hover {
-  background-color: #b5d1ff;
+  background-color: #5dd55d;
 }
 
 /*  **********************
