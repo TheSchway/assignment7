@@ -111,6 +111,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div>
                 <input type="submit" value="Login">
             </div>
+            <div>
+                <a href="index.php">Return to the website</a>
+            </div>
         </form>
     </div>    
 </body>
