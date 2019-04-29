@@ -49,7 +49,11 @@
 		</div>
 
 
+
 		<div class="flex-shrek">
+
+		<p>Shrek and Donkey travel to the castle to find Fiona. They are noticed by Dragon, who corners Donkey. In desperation, he sweet-talks the beast, learning that it is female. Dragon falls in love with Donkey and carries him to her chambers. Meanwhile, Shrek finds Fiona, who is appalled at his lack of romanticism and surprised he had not slain Dragon. They leave after rescuing Donkey, and Fiona is thrilled to be rescued but is quickly disappointed when Shrek reveals he is an ogre. Despite her demands that Farquaad come get her in person, Shrek forcibly carries her as he ventures back to Duloc with Donkey. The three encounter Robin Hood on their way back, where it is revealed that Fiona is an expert martial artist. Shrek and Fiona find they have a lot in common and begin to fall in love.</p>
+
 
 			<h2 class="flexh">Plot </h2>
 
