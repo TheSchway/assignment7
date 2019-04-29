@@ -62,6 +62,7 @@
 	</div>
 
 	<div>Assignment 07: Shrek</div>
+	<footer><a href="login.php">Admin Login</a></footer>
 
 	<script src="//code.jquery.com/jquery.js"></script>
 	<script src="js/menu-highlighter.js"></script>
