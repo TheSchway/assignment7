@@ -10,6 +10,10 @@
 
 }
 
+a{
+	text-decoration: none;
+}
+
 /*  **********************
 	Layout
 	********************** */
@@ -20,7 +24,7 @@
 	display: inline;
 	float: left;
 	margin: 0;
-	font-size: 24px;
+	font-size: 30px;
 	padding: 30px;
 	color: white;
 	background-color: #006600;
@@ -35,7 +39,7 @@
 	padding: 0;
 	overflow: hidden;
 	background-color: #006600;
-	margin-left: 400px;
+	margin-left: 350px;
 
 	
 }
@@ -63,7 +67,7 @@
 	margin-left: 360px;
 	width: 40%;
 	height: 100%;
-	background-color: #663300;
+	background-color: #ffe6b3;
 
 }
 
@@ -87,7 +91,7 @@
 	display: flex;
 	width: 100%;
 	background-color: #006600;
-	border-bottom: solid #663300 8px;
+	border-bottom: solid #003300 8px;
 
 
 }
@@ -105,7 +109,7 @@
 
 .menu a{
   	
-  	font-size: 24px;
+  	font-size: 30px;
   	color: white;
 }
 
@@ -128,6 +132,10 @@ li a:hover {
 .menu .is-current{
 	color:red;
 
+}
+
+.bannerContainer {
+	font-family: 'MedievalSharp', cursive;
 }
 
 
