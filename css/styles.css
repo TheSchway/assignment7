@@ -157,5 +157,28 @@ body{
 	background-color: red;
 }
 
+.flex-shrek{
+	
+}
 
+.flex-shrek img{
+	padding-top: 60px;
+	width: 300px;
+	padding-right: 20px;
+	padding-left: 50px;
+}
+
+.content{
+	padding-left: 20px;
+
+}
+
+.homeimg img{
+	width: 1200px;
+
+}
+
+.container{
+	font-family: 'Cormorant Unicase', serif;
+}
 

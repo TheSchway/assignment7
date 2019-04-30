@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
 	<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Unicase" rel="stylesheet">
 </head>
 
 <body>
@@ -56,7 +57,6 @@
 
 		<p>Shrek, Donkey and Puss in Boots set out to retrieve Artie; as they are sailing away, Fiona reveals to Shrek that she is pregnant, much to Shrek's horror, as he believes he is not capable of raising children. The trio journey to Worcestershire Academy, an elite magical boarding school, where they discover Artie is a scrawny 16-year-old underachiever. At the school pep rally, Shrek tells Artie he will be king of Far Far Away. Artie is excited until Donkey and Puss inadvertently frighten him by discussing the responsibilities of being king. Artie tries taking control of the ship to go back to Worcestershire and as he and Shrek fight over the wheel, it breaks and the ship crashes on a remote island, where they encounter Artie's retired wizard teacher, Merlin.</p>
 
-		<p>Charming stages a musical in front of the kingdom. Just as Charming is about to kill Shrek, Fiona, along with Puss, Donkey, the princesses and the fairy tale characters confront the villains. They lose, and Fiona is tied up. Artie shows up and convinces the villains that just because they are being treated like losers does not mean they must be losers. The villains agree to give up their evil ways. Charming refuses to listen, and lunges at Artie with his sword, but Shrek blocks the blow, so Charming attacks him instead. As Shrek pushes Charming aside, Dragon knocks over Rapunzel's tower, seemingly crushing him to death.</p>
 
 		
 
@@ -89,7 +89,7 @@
 
 		<p>Shrek the Third grossed $322.7 million in the United States, and $476.2 million overseas, bringing its cumulative total to $799 million. The film was the fourth-highest-grossing film worldwide of 2007, and the second-highest-grossing film in the United States and Canada that year. In addition, it was the highest-grossing animated film of 2007, and the third-highest-grossing animated film ever. The film sold an estimated 46,907,000 tickets in North America.</p>
 
-		<p>The film was released in the United Kingdom on June 29, 2007, and topped the country's box office for the next two weekends, before being dethroned by Harry Potter and the Order of the Phoenix.</p>
+	
 
 		</div>
 
