@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/navigation.css">
 		<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Cormorant+Unicase" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
 
 	</head>
 
@@ -57,13 +57,15 @@
 					<p>Get some information on what happens during these movies!</p>
 
 
-
-					<h2>We Need Your Help!</h2>
-					<p> Click Here To Give Us Your Input on Shrek!</p>
 				</div>
 
+				<div class="botbanner">
+					<h2>Which Shrek Is Your Favorite Movie?</h2>
+					<p> Click </p>
+				
+				</div>
 				<div class="vertical">
-				<h2>We Need Your Help!</h2>
+				
 				<a href="index.php">
 					<p> Click Here To Give Us Your Input on Shrek!</p>
 				</a>

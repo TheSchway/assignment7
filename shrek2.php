@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
 	<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Cormorant+Unicase" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
 </head>
 
 <body>
