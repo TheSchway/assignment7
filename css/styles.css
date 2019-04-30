@@ -154,7 +154,7 @@ body{
 }
 
 .homeimg{
-	background-color: red;
+	background-color: white;
 }
 
 .flex-shrek{
@@ -174,11 +174,16 @@ body{
 }
 
 .homeimg img{
-	width: 1200px;
+	width: 1280px;
 
 }
 
 .container{
 	font-family: 'Cormorant Unicase', serif;
+}
+
+.container header{
+	border-bottom: solid #003300 8px;
+	font-size: 24px;
 }
 

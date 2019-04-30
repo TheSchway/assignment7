@@ -43,7 +43,7 @@
 
 
 		<div class="homeimg">
-			<img src="images/shrek.jpg" alt="Shrek">
+			<img src="images/shrekbackground.jpg" alt="Shrek">
 
 
 		</div>
