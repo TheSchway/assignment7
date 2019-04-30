@@ -52,7 +52,7 @@
 
 		<div class="flex-shrek">
 
-		<p>Shrek and Donkey travel to the castle to find Fiona. They are noticed by Dragon, who corners Donkey. In desperation, he sweet-talks the beast, learning that it is female. Dragon falls in love with Donkey and carries him to her chambers. Meanwhile, Shrek finds Fiona, who is appalled at his lack of romanticism and surprised he had not slain Dragon. They leave after rescuing Donkey, and Fiona is thrilled to be rescued but is quickly disappointed when Shrek reveals he is an ogre. Despite her demands that Farquaad come get her in person, Shrek forcibly carries her as he ventures back to Duloc with Donkey. The three encounter Robin Hood on their way back, where it is revealed that Fiona is an expert martial artist. Shrek and Fiona find they have a lot in common and begin to fall in love.</p>
+	
 
 
 			<h2 class="flexh">Plot </h2>
@@ -60,9 +60,6 @@
 
 			<div class="content">
 				<p>Shrek, a mean and highly territorial green ogre who loves the solitude of his swamp, finds his life interrupted when countless fairytale creatures are exiled there by the fairytale-hating and vertically-challenged Lord Farquaad of Duloc. Angered, he decides to ask Farquaad to exile them elsewhere. Shrek brings along a talking Donkey, who is the only fairytale creature willing to guide him to Duloc.</p>
-
-
-				<p>Meanwhile, Farquaad tortures the Gingerbread Man for the location of the remaining fairytale creatures. His guards rush in with something he has been searching for: the Magic Mirror. He asks the Mirror if his kingdom is the fairest of them all but is told that he is not even a king, as he isn't descended from royalty. To become a king, he must marry a princess; Farquaad resolves to marry Princess Fiona, who is locked in a castle tower guarded by a dragon. Unwilling to perform the task himself, he organizes a tournament wherein the winner gets the "privilege" of rescuing Fiona for him. Shrek and Donkey arrive during the tournament, and ignorantly defeat Farquaad's knights. Farquaad proclaims them the champions, and compels them under threat of death to rescue Fiona, promising to move the fairytale creatures from Shrek's swamp if he succeeds.</p>
 
 
 				<p>Shrek and Donkey travel to the castle to find Fiona. They are noticed by Dragon, who corners Donkey. In desperation, he sweet-talks the beast, learning that it is female. Dragon falls in love with Donkey and carries him to her chambers. Meanwhile, Shrek finds Fiona, who is appalled at his lack of romanticism and surprised he had not slain Dragon. They leave after rescuing Donkey, and Fiona is thrilled to be rescued but is quickly disappointed when Shrek reveals he is an ogre. Despite her demands that Farquaad come get her in person, Shrek forcibly carries her as he ventures back to Duloc with Donkey. The three encounter Robin Hood on their way back, where it is revealed that Fiona is an expert martial artist. Shrek and Fiona find they have a lot in common and begin to fall in love.</p>
@@ -76,6 +73,7 @@
 			
 		
 			<img src="images/shrek1.jpg" alt="Shrek">
+			
 
 			
 
@@ -84,7 +82,7 @@
 
 		<div class="flex-shrek">
 
-		<img src="images/smashmouth.jpg" alt="Smashmouth">
+		
 
 			<h2 class="flexhmusic">Music</h2>
 
@@ -93,10 +91,13 @@
 				<p>Shrek is the third DreamWorks animated film (and the only film in the Shrek series) to have Harry Gregson-Williams team up with John Powell to compose the score following Antz (1998) and Chicken Run (2000). John Powell was left out to compose scores for later Shrek films with Williams due to a conflict.[47] The score was recorded at Abbey Road Studios by Nick Wollage and Slamm Andrews, with the latter mixing it at Media Ventures and Patricia Sullivan-Fourstar handling mastering.</p>
 
 				<p>Shrek introduced a new element to give the film a unique feel. The film used pop music and other Oldies to make the story more forward. Covers of songs like "On the Road Again" and "Try a Little Tenderness" were integrated in the film's score. As the film was about to be completed, Katzenberg suggested to the filmmakers to redo the film's ending to "go out with a big laugh"; instead of ending the film with just a storybook closing over Shrek and Fiona as they ride off into the sunset, they decided to add a song "I'm a Believer" covered by Smash Mouth and show all the fairytale creatures in the film.</p>
+
 				
-		<img src="images/shrekaward.jpg" alt="Awards">
+				
+
 
 			</div>
+			<img src="images/smashmouth.jpg" alt="Smashmouth">
 
 		</div>
 
@@ -110,6 +111,8 @@
 				<p>Shrek became the highest-grossing animated film ever to be released in Australia, passing the mark set by The Lion King in 1994. In the United Kingdom, Shrek regained the top spot at the British box office after being beaten out the previous week by Lara Croft: Tomb Raider, earning a $20.3 million since its opening in the UK.</p>
 
 			</div>
+
+					<img src="images/shrekaward.jpg" alt="Awards">
 		</div>
 	</div>
 
