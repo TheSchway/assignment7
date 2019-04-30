@@ -9,7 +9,10 @@
 	Layout
 	********************** */
 
+body{
+	background-color: #663300;
 
+}
 .flex-shrek{
 	display: flex;
 	width: 100%;
@@ -18,6 +21,9 @@
 .container{
 	margin:auto;
 	width: 90%;
+	padding: 30px;
+	padding-top: 50px;
+	border-top: solid #663300 20px;
 
 }
 
@@ -99,9 +105,9 @@
 
 
 .flex-container{
-    background-color: #006600;;
-	border-bottom: solid #663300 8px;
-	border-top: solid #663300 8px;
+    background-color: #006600;
+	border-bottom: solid #003300 8px;
+	border-top: solid #003300 8px;
 }
 
 
@@ -139,6 +145,16 @@
 	font-weight: bold;
 	color: white;
 
+}
+
+
+.container{
+
+	background-color: #ffe6b3;
+}
+
+.homeimg{
+	background-color: red;
 }
 
 

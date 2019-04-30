@@ -5,6 +5,7 @@
 	<title>Assignment 07: Shrek 1</title>
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
+	<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
 </head>
 
 <body>
@@ -117,6 +118,8 @@
 	</div>
 
 	</div>
+
+	<footer class="foot">CSC 174: Advanced Front-end Web Design and Development</footer>
 	<script src="//code.jquery.com/jquery.js"></script>
 	<script src="js/menu-highlighter.js"></script>
 
