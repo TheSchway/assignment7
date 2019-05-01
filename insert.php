@@ -62,10 +62,9 @@
 	$insertSong = mysqli_real_escape_string($connection, $insertSong);
 	$insertVillain = mysqli_real_escape_string($connection, $insertVillain);
 	$ip = mysqli_real_escape_string($connection, $ip);
-	$subject = mysqli_real_escape_string($connection, $subject);
-	$message = mysqli_real_escape_string($connection, $message);
-	
 	mail($insertEmail, $subject, $message, "From: Team Seoul (Danny, Eric, Joshua)");
+
+	
 	// 2. Perform database query
 	$query  = "INSERT INTO survey (name, email, location, question1, question2, question3, question4, ip_address) VALUES ('$insertName','$insertEmail','$location','$insertMovie','$insertCharacter','$insertSong','$insertVillain', '$ip')";
 	$result = mysqli_query($connection, $query);
@@ -85,7 +84,6 @@
 
 
 <?php
-
 	if ($result) {
 		echo "Thank you for filling out our survey! Click the link below to learn more about the Shrek movies!";
 ?>
@@ -104,7 +102,7 @@
 <?php
 	// 4. Step 4 is unnecessary here because we didn't 
 	//	  get data that needs to be released
-	mysqli_free_result($result);
+	//mysqli_free_result($result);
 
 	// 5. Close database connection
 	mysqli_close($connection);
