@@ -29,6 +29,7 @@ $result = mysqli_query($connection, "SELECT * FROM survey");
       <th>Favorite Character</th>
       <th>Favorite Song</th>
       <th>Scariest Villain</th>
+      <th>IP Address</th>
       <?php if(isset($_SESSION['username'])) { ?>
       <th colspan="2"><em>Functions</em></th>
       <?php } ?>
@@ -46,6 +47,7 @@ while($row = mysqli_fetch_array( $result )) {
     <td><?php echo $row['question2']; ?></td>
     <td><?php echo $row['question3']; ?></td>
     <td><?php echo $row['question4']; ?></td>
+    <td><?php echo $row['ip_address']; ?></td>
     <?php if(isset($_SESSION['username'])) { ?>
     <td><a href="edit.php?id=<?php echo $row['id']; ?>">Edit</a></td>
     <td><a onclick="return confirm('Are you sure you want to delete ID: <?php echo $row["id"]; ?>?')" href="delete.php?id=<?php echo $row['id']; ?>">Delete</a></td>

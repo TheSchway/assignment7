@@ -2,7 +2,7 @@
 	<html>
 	<head>
 		<meta charset="utf-8">
-		<title>Assignment 07: A Survey: Shrek</title>
+		<title>Assignment 07: A Shrek Survey</title>
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/navigation.css">
 		<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
