@@ -54,14 +54,14 @@
 			<div class="flex-container">
 				<div class="botbanner">
 					<h2>A Recap!</h2>
-					<p>Get some information on what happens during these movies!</p>
+					<p>Read through to get a recap on the plot of these movies! Learn about some of the great artists that have been featured in these movies and how the movies fared in the box office!</p>
 
 
 				</div>
 
 				<div class="botbanner">
 					<h2>Which Shrek Is Your Favorite Movie?</h2>
-					<p> Click </p>
+					<p>We need your help! We want to know all of your opinions about this movie! Who is your favorite character? Do you know the muffin man? Questions like these are just a click away!</p>
 				
 				</div>
 				<div class="vertical">
