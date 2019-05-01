@@ -24,7 +24,7 @@ a{
 	display: inline;
 	float: left;
 	margin: 0;
-	font-size: 30px;
+	font-size: 24px;
 	padding: 30px;
 	color: white;
 	background-color: #006600;
@@ -39,7 +39,7 @@ a{
 	padding: 0;
 	overflow: hidden;
 	background-color: #006600;
-	margin-left: 350px;
+	margin-left: 250px;
 
 	
 }
@@ -110,7 +110,7 @@ a{
 
 .menu a{
   	
-  	font-size: 30px;
+  	font-size: 24px;
   	color: white;
 }
 
@@ -137,6 +137,11 @@ li a:hover {
 
 .bannerContainer {
 	font-family: 'MedievalSharp', cursive;
+}
+
+
+.vertical a:hover {
+  background-color: red;
 }
 
 
