@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
 	<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Unicase" rel="stylesheet">
 </head>
 
 <body>
@@ -88,7 +89,7 @@
 	<div class= "content">
 		<p>The film opened at #1 with a Friday-to-Sunday total of $108 million, and $129 million since its Wednesday launch, from a then-record 4,163 theaters, for an average of $25,952 per theater over the weekend. At the time Shrek 2's Friday-to-Sunday total was the second-highest opening weekend, only trailing Spider-Man's $114.8 million. In addition, Saturday alone managed to obtain $44.8 million, making it the highest single-day gross at the time, beating Spider-Man's first Saturday gross of $43.6 million. The film remained at No. 1 in its second weekend, grossing another $95.6 million over the four-day Memorial Day weekend, narrowly beating out the $85.8 million four-day tally of new opener The Day After Tomorrow. It spent ten weeks in the weekly Top 10, remaining there until July 29, and stayed in theaters for 149 days (roughly twenty-one weeks), closing on November 25, 2004. The film was released in the United Kingdom on July 2, 2004, and topped the country's box office for the next two weekends, before being dethroned by Spider-Man 2.</p>
 
-		<p>Shrek 2 remained the highest-grossing animated film worldwide until the release of Toy Story 3 (2010), and held the record for the highest-grossing animated film at the North American box office until the release of Finding Dory (2016) as well as the highest-grossing non-Disney animated film at this box office. Disney's 3D re-releases of The Lion King (in 2011) and Finding Nemo (in 2012), Despicable Me 2 (in 2013), Disney's Frozen (also in 2013),[50] Minions (in 2015), Zootopia (in 2016), Finding Dory (also in 2016), Despicable Me 3 (in 2017), and Incredibles 2 (in 2018)[53][54][55] respectively, surpassed Shrek 2 and relegated it as the eleventh-highest-grossing animated film of all time.</p>
+		
 
 		
 	</div>

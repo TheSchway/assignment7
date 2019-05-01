@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link rel="stylesheet" href="css/navigation.css">
 		<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Cormorant+Unicase" rel="stylesheet">
 
 	</head>
 
@@ -36,15 +37,13 @@
 						<li><a href = "index.php">Home</a></li>
 					
 					</ul>
-
 				</nav>
 			</div>
 		</div>
 
 
-		<div clas="homeimg">
-
-			<img src="images/shrek.jpg" alt="Shrek">
+		<div class="homeimg">
+			<img src="images/shrekbackground.jpg" alt="Shrek">
 
 
 		</div>
