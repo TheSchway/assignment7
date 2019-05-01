@@ -31,7 +31,7 @@
 				<nav class="menu">
 
 					<ul>
-						<li><a href = "shrek3.php">Shrek 3</a></li>
+						<li><a href = "shrek3.php">Shrek The Third</a></li>
 						<li><a href = "shrek2.php">Shrek 2</a></li>
 						<li><a href = "shrek1.php">Shrek 1</a></li>
 						<li><a href = "index.php">Home</a></li>
