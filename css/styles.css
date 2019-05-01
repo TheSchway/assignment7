@@ -2,17 +2,20 @@
 	Base Styles
 	********************** */
 
+*{
 
+}
+body{
+	background-color: #663300;
+
+}
 
 
 /*  **********************
 	Layout
 	********************** */
 
-body{
-	background-color: #663300;
 
-}
 .flex-shrek{
 	display: flex;
 	width: 100%;
@@ -77,31 +80,82 @@ body{
 
 
 }
+
 .botbanner h2{
+	font-family: 'MedievalSharp', cursive;
 	padding-top: 10px;
 }
+
+.botbanner p{
+	font-family: 'MedievalSharp', cursive;
+	padding-top: 10px;
+	font-family: 'Rokkitt', serif;
+	color: white;
+}
+
 .botbanner {
 	width: 100%
 	margin:0px;
 
 
 }
-.botbanner ul li{
-	display: inline block;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	color: white;
-	font-size: 24px;
+
+.botbanner{
+	padding-right: 50px;
+}
+
+
+
+.container a{
+	color: blue;
+	text-decoration: underline;
+	padding-left: 30px;
+}
+
+
+.h2{
+	margin-top: 10px;
+	width: 50%;
 
 }
 
+
+.content{
+	padding-left: 20px;
+
+}
+
+.homeimg img{
+	width: 1280px;
+
+}
+
+
+input{
+	display: block;
+	padding-top: 5px;
+	width: 100%;
+}
+
+label{
+	display: block;
+	padding-top: 5px;
+}
+
+footer a{
+
+	padding-left: 500px;
+}
 
 
 /*  **********************
 	MODUlE
 	********************** */
 
-
+.foot2{
+	border-top: solid #003300 8px;
+	margin-top: 30px;
+}
 
 
 .flex-container{
@@ -109,6 +163,7 @@ body{
 	border-bottom: solid #003300 8px;
 	border-top: solid #003300 8px;
 }
+
 
 
 
@@ -127,18 +182,16 @@ body{
 
 
 
-.h2{
-	margin-top: 10px;
-	width: 50%;
+.foot{
+	padding: 15px;
+	background-color: #006600;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
 
 }
 
-
-
-
-
-
-.foot{
+.foot2{
 	padding: 15px;
 	background-color: #006600;
 	font-size: 14px;
@@ -157,9 +210,6 @@ body{
 	background-color: white;
 }
 
-.flex-shrek{
-	
-}
 
 .flex-shrek img{
 	padding-top: 60px;
@@ -168,15 +218,7 @@ body{
 	padding-left: 50px;
 }
 
-.content{
-	padding-left: 20px;
 
-}
-
-.homeimg img{
-	width: 1280px;
-
-}
 
 .container{
 	font-family: 'Rokkitt', serif;
@@ -189,6 +231,13 @@ body{
 }
 
 
-	
+
+
+/*  **********************
+	State
+	********************** */
+footer a:hover {
+  color: white;
+}
 
 

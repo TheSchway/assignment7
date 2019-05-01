@@ -29,6 +29,7 @@
 			<nav class="menu">
 
 				<ul>
+					<li><a href = "survey.php">Survey</a></li>
 					<li><a href = "shrek3.php">Shrek The Third</a></li>
 					<li><a href = "shrek2.php">Shrek 2</a></li>
 					<li><a href = "shrek1.php">Shrek 1</a></li>
@@ -58,7 +59,6 @@
 
 		<p>Harold is reprimanded by the Fairy Godmother and her son Prince Charming by reminding him that Charming was to marry Fiona in exchange for his own happy ending. She implores him to find a way of getting rid of Shrek. Harold arranges for Shrek and Donkey to join him on a fictitious hunting trip, which is actually a trap to lure them into the hands of an assassin, Puss in Boots. Unable to defeat Shrek, Puss reveals that he was paid by Harold and offers to come along and make amends. The three sneak into the Fairy Godmother's potion factory and steal a "Happily Ever After" potion that Shrek thinks will restore Fiona's love for him.</p>
 
-		<p>To ensure that Fiona falls in love with Charming, the Fairy Godmother gives Harold a love potion to put into Fiona's tea. This exchange is overheard by Shrek, Donkey, and Puss, who are arrested by the royal guards and thrown into a dungeon. Shrek is too late to prevent Charming from kissing Fiona, but instead of falling in love with Charming, Fiona knocks him out with a headbutt. Harold reveals that he never gave Fiona the love potion, whereupon the now-enraged Fairy Godmother attacks Shrek. In the ensuing melee, Harold sacrifices himself to save Shrek; his armor ricochets a spell cast by the Fairy Godmother which disintegrates her, and Harold is turned back into the Frog Prince, his true form. Harold gives his blessing to the marriage and apologizes for his earlier behavior, admitting his use of the Happily Ever After potion years earlier to gain Lillian's love, Lillian urges Harold that she loves him over his appearance.</p>
 
 		</div>
 		<img src="images/shrek2.jpg" alt="Shrek 2">
@@ -99,7 +99,11 @@
 
 
 	</div>
-	<footer class="foot">CSC 174: Advanced Front-end Web Design and Development</footer>
+	<footer class="foot2">
+	CSC 174: Advanced Front-end Web Design and Development
+	<a href = "login.php">Administrators Only: Click Here To Login To Your Account</a>
+
+	</footer>
 
 	<script src="//code.jquery.com/jquery.js"></script>
 	<script src="js/menu-highlighter.js"></script>	

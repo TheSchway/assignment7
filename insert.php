@@ -34,8 +34,13 @@
 <head>
 	<meta charset="utf-8">
 	<title>Database Insert | Seoul | Assignment 7</title>
+	<link rel="stylesheet" href="css/styles.css">
+		<link rel="stylesheet" href="css/navigation.css">
+		<link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
 </head>
 <body>
+	<div class="container">
 	<h1>Success!</h1>
 
 
@@ -51,6 +56,7 @@
 	<a href="index.php">Click here to return to the home page!</a>
 
 	<a href="shrek1.php">Click here to learn more!</a>
+	</div>
 </body>
 </html>
 

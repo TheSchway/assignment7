@@ -29,6 +29,7 @@
 			<nav class="menu">
 
 				<ul>
+					<li><a href = "survey.php">Survey</a></li>
 					<li><a href = "shrek3.php">Shrek The Third</a></li>
 					<li><a href = "shrek2.php">Shrek 2</a></li>
 					<li><a href = "shrek1.php">Shrek 1</a></li>
@@ -100,7 +101,11 @@
 
 </div>
 
-<footer class="foot">CSC 174: Advanced Front-end Web Design and Development</footer>
+	<footer class="foot2">
+	CSC 174: Advanced Front-end Web Design and Development
+	<a href = "login.php">Administrators Only: Click Here To Login To Your Account</a>
+
+	</footer>
 	<script src="//code.jquery.com/jquery.js"></script>
 	<script src="js/menu-highlighter.js"></script>
 

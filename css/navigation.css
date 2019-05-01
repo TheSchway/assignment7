@@ -98,7 +98,7 @@ a{
 }
 
 .bannerContainer .banner2{
-	margin-left: 100px;
+	margin-left: 117px;
 
 }
 
@@ -121,22 +121,19 @@ a{
 
 
 
-
-li a:hover {
-  background-color: #5dd55d;
+.bannerContainer {
+	font-family: 'MedievalSharp', cursive;
 }
+
+
+
+
 
 /*  **********************
 	State
 	********************** */
-
-.menu .is-current{
-	color:red;
-
-}
-
-.bannerContainer {
-	font-family: 'MedievalSharp', cursive;
+li a:hover {
+  background-color: #5dd55d;
 }
 
 
