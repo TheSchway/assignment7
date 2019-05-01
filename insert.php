@@ -62,7 +62,7 @@
 	$insertSong = mysqli_real_escape_string($connection, $insertSong);
 	$insertVillain = mysqli_real_escape_string($connection, $insertVillain);
 	$ip = mysqli_real_escape_string($connection, $ip);
-	mail($insertEmail, $subject, $message, "From: Team Seoul (Danny, Eric, Joshua)");
+	mail($insertEmail, $subject, $message, "From: jdenn11@u.rochester.edu");
 
 	
 	// 2. Perform database query
