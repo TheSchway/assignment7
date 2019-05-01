@@ -94,9 +94,7 @@
 		</div>
 
 		<footer class="foot2">
-	CSC 174: Advanced Front-end Web Design and Development
-	<a href = "login.php">Administrators Only: Click Here To Login To Your Account</a>
-
+		<?php include "inc/footer.inc"; ?>
 	</footer>
 	</body>
 	</html>
