@@ -87,7 +87,6 @@ a{
 
 
 .bannerContainer{
-	padding-left;
 	display: flex;
 	width: 100%;
 	background-color: #006600;
@@ -98,7 +97,7 @@ a{
 }
 
 .bannerContainer .banner2{
-	margin-left: 117px;
+	margin-left: 118px;
 
 }
 
@@ -142,7 +141,9 @@ li a:hover {
 }
 
 .is-current {
-	background-color: 
+	background-color: #663300;
 
 }
+
+
 
