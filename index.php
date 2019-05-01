@@ -70,9 +70,6 @@
 				<a href="survey.php">
 					<p> Click Here To Give Us Your Input on Shrek!</p>
 				</a>
-					
-				</a>
-
 			</div>
 		</div>
 

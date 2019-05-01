@@ -47,7 +47,7 @@
 	$message .= "\n";
 	$message .= "Favorite Song from the Shrek Soundtrack: ";
 	$message .= $insertSong;
-	$messsage .= "\n";
+	$message .= "\n";
 	$message .= "Scariest Shrek Villain: ";
 	$message .= $insertVillain;
 	$message .= "\n\n";

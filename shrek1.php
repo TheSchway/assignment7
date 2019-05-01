@@ -119,9 +119,6 @@
 					<img src="images/shrekaward.jpg" alt="Awards">
 		</div>
 	</div>
-
-	</div>
-
 	<footer class="foot2">
 	<?php include "inc/footer.inc"; ?>
 

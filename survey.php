@@ -95,9 +95,5 @@
 
 		<footer class="foot2">
 		<?php include "inc/footer.inc"; ?>
-	</footer>
-
-	<script src="//code.jquery.com/jquery.js"></script>
-	<script src="js/menu-highlighter.js"></script>
 	</body>
 	</html>
