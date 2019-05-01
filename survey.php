@@ -6,13 +6,13 @@
 <body>
 	<form method="post" action="insert.php">
 		<label for="name">Name: </label>
-		<input type="text" name="name" id="name" placeholder="Enter your name...">
+		<input type="text" name="name" id="name" placeholder="Type here...">
 
 		<label for="email">Email: </label>
-		<input type="email" name="email" id="email" placeholder="Enter your email...">
+		<input type="email" name="email" id="email" placeholder="Type here...">
 
-		<label for="location">Location: </label>
-		<input type="text" name="location" id="location" placeholder="Enter the city you're from...">
+		<label for="location">Location (City and State): </label>
+		<input type="text" name="location" id="location" placeholder="Type here...">
 
 		<label for="favmovie">Which is your favorite Shrek movie? </label>
 		<input type="text" name="favmovie" id="favmovie" placeholder="Type here...">

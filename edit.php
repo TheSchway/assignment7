@@ -12,6 +12,18 @@ include('renderform.php');
 
 // connect to the database
 include('connect-db.php');
+function getUserIpAddr(){
+    	if(!empty($_SERVER['HTTP_CLIENT_IP'])){
+        	//ip from share internet
+        	$ip = $_SERVER['HTTP_CLIENT_IP'];
+   		}elseif(!empty($_SERVER['HTTP_X_FORWARDED_FOR'])){
+        	//ip pass from proxy
+        	$ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+    	}else{
+        	$ip = $_SERVER['REMOTE_ADDR'];
+    	}
+    	return $ip;
+	}
 
 // check if the form (from renderform.php) has been submitted. If it has, process the form and save it to the database
 if (isset($_POST['submit'])) {
@@ -26,9 +38,10 @@ if (isset($_POST['submit'])) {
 		$question2 = mysqli_real_escape_string($connection, htmlspecialchars($_POST['question2']));
 		$question3 = mysqli_real_escape_string($connection, htmlspecialchars($_POST['question3']));
 		$question4 = mysqli_real_escape_string($connection, htmlspecialchars($_POST['question4']));
+		$ip = mysqli_real_escape_string($connection, getUserIPAddr());
 
 		// check that firstname/lastname fields are both filled in
-		if ($name == '' || $email == '' || $location == '' || $question1 == '' || $question2 == '' || $question3 == '' || $question4 == '') {
+		if ($name == '' || $email == '' || $question1 == '' || $question2 == '' || $question3 == '' || $question4 == '') {
 			// generate error message
 			$error = 'ERROR: Please fill in all required fields!';
 
@@ -37,7 +50,7 @@ if (isset($_POST['submit'])) {
 
 		} else {
 			// save the data to the database
-			$result = mysqli_query($connection, "UPDATE survey SET name='$name', email='$email', location='$location', question1='$question1', question2='$question2', question3='$question3', question4='$question4' WHERE id='$id'");
+			$result = mysqli_query($connection, "UPDATE survey SET name='$name', email='$email', location='$location', question1='$question1', question2='$question2', question3='$question3', question4='$question4', ip_address='$ip' WHERE id='$id'");
 
 			// once saved, redirect back to the homepage page to view the results
 			header("Location: admin-area.php");
@@ -65,9 +78,10 @@ if (isset($_POST['submit'])) {
 			$question2 = $row['question2'];
 			$question3 = $row['question3'];
 			$question4 = $row['question4'];
+			$ip = $row['ip_address'];
 
 			// show form
-			renderForm($id, $name, $email, $location, $question1, $question2, $question3, $question4, '');
+			renderForm($id, $name, $email, $location, $question1, $question2, $question3, $question4, $ip_address, '');
 		} else {
 			// if no match, display result
 			echo "No results!";

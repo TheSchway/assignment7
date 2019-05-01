@@ -29,7 +29,7 @@ if ($error != '') {
 			<label for="email">Email: *</label> <input type="text" name="email" id="email" class="form-control" value="<?php echo $email; ?>"/>
 		</div>
 		<div class="form-group">
-			<label for="location">Location: *</label> <input type="text" name="location" id="location" class="form-control" value="<?php echo $location; ?>"/>
+			<label for="location">Location (city and state): *</label> <input type="text" name="location" id="location" class="form-control" value="<?php echo $location; ?>"/>
 		</div>
 		<div class="form-group">
 			<label for="question1">Favorite Movie: *</label> <input type="text" name="question1" id="question1" class="form-control" value="<?php echo $question1; ?>"/>
