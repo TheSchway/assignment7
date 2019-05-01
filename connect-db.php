@@ -6,6 +6,7 @@ $pass = 'DannyAronson';
 $db = 'urcscon3_seoul';
 
 // Connect to Database
+// Connect to Database
 $connection = mysqli_connect($server,$user,$pass,$db);
 if (!$connection) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;
