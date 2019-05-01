@@ -121,19 +121,19 @@ a{
 
 
 
-.bannerContainer {
-	font-family: 'MedievalSharp', cursive;
-}
-
-
 
 
 
 /*  **********************
 	State
 	********************** */
+
 li a:hover {
   background-color: #5dd55d;
+}
+
+.bannerContainer {
+	font-family: 'MedievalSharp', cursive;
 }
 
 
@@ -141,4 +141,8 @@ li a:hover {
   background-color: red;
 }
 
+.is-current {
+	background-color: 
+
+}
 
